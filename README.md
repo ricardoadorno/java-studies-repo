@@ -49,3 +49,5 @@
 
 1. try{} catch {}
 1. throw metodoDoErro metodoDoErro
+
+### import java.io.Serializable: permite que o objeto ou coleções seja salvo em um arquivo
