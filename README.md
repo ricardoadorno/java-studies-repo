@@ -50,4 +50,16 @@
 1. try{} catch {}
 1. throw metodoDoErro metodoDoErro
 
-### import java.io.Serializable: permite que o objeto ou coleções seja salvo em um arquivo
+### Binarios: permite que o objeto ou coleções seja salvo em um arquivo binário
+
+1. import java.io.Serializable
+
+### Multiprocessos: permite que o programa execute multiplos processos ao mesmo tempo, usando o metodos como start() e run()
+
+1. Thread: _extends_ Thread
+1. Runnable: _implements_ Runnable
+1. ExecutorService: metodo que permite que o programa execute multiplos processos ao mesmo tempo de forma controlada
+
+## Design Patterns
+
+1. Decorator: permite que um objeto seja adicionado a outro objeto dinamicamente
